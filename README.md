@@ -26,6 +26,10 @@ My goal is to improve my problem-solving skills by turning math and physics conc
 - **Vector Component Calculator**  
   Calculates the x- and y-components of a vector using magnitude, angle, trigonometry, and radians conversion.
 
+-**Quadratic Formula Calculator v2**
+  An improved version of the quadratic formula calculator. Now handles 2 real roots, 1 repeated root and 2 complex roots.
+ 
+
 ## Skills Practiced
 
 - Variables and data types
@@ -39,6 +43,8 @@ My goal is to improve my problem-solving skills by turning math and physics conc
 - Physics formulas
 - Using `<iostream>` and `<cmath>`
 - Converting degrees to radians
+- Imaginary & Complex numbers
+
 
 ## Learning Roadmap
 
@@ -61,6 +67,7 @@ Goals:
 - Build physics-based C++ projects
 - Begin creating simple simulations
 - Improve code organization and project structure
+- Discrete Mathematics
 
 ### Age 16 — Advanced Math and Simulations
 
