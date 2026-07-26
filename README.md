@@ -26,7 +26,7 @@ My goal is to improve my problem-solving skills by turning math and physics conc
 - **Vector Component Calculator**  
   Calculates the x- and y-components of a vector using magnitude, angle, trigonometry, and radians conversion.
 
--**Quadratic Formula Calculator v2**
+ -**Quadratic Formula Calculator v2**
   An improved version of the quadratic formula calculator. Now handles 2 real roots, 1 repeated root and 2 complex roots.
  
 
