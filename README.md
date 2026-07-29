@@ -1,8 +1,8 @@
 # C++ Learning Projects
 
-This repository contains small C++ projects I built while learning programming, mathematics, and physics.
+This repository contains small C++ projects I built while learning programming, mathematics, physics, and computer science.
 
-My goal is to strengthen my problem-solving skills by turning math and physics concepts into working code. These projects show my progress from basic input/output programs toward math-based and physics-based tools.
+My goal is to strengthen my problem-solving skills by turning math and physics concepts into working code. These projects show my progress from basic input/output programs toward more advanced math-based, physics-based, and simulation-style tools.
 
 ---
 
@@ -41,6 +41,22 @@ This project helped me connect algebra, imaginary numbers, and programming logic
 ### Vector Component Calculator
 Calculates the x- and y-components of a vector using magnitude, angle, trigonometry, and degree-to-radian conversion.
 
+### Classical Mechanics Calculator v1
+A Newtonian / classical mechanics formula calculator built in C++.
+
+This calculator uses a menu system and allows the user to calculate several core mechanics values, including:
+
+- Force: `F = ma`
+- Weight force: `Fg = mg`
+- Momentum: `p = mv`
+- Kinetic energy: `KE = 1/2mv²`
+- Gravitational potential energy: `PE = mgh`
+- Work: `W = Fd cos(theta)`
+- Projectile time: `t = 2vy / g`
+- Projectile range: `R = vx * t`
+
+This project helped me practice C++ conditionals, variable scope, physics units, formulas, and using `std::cout` / `std::cin` without `using namespace std`.
+
 ---
 
 ## Skills Practiced
@@ -49,6 +65,8 @@ Calculates the x- and y-components of a vector using magnitude, angle, trigonome
 - User input and output
 - Basic arithmetic formulas
 - Conditional statements
+- Menu-based programs
+- Local variable scope
 - Quadratic equations
 - The quadratic formula
 - The discriminant
@@ -56,11 +74,14 @@ Calculates the x- and y-components of a vector using magnitude, angle, trigonome
 - Trigonometry
 - Vectors
 - Projectile motion
-- Basic physics formulas
+- Newtonian mechanics
+- Force, weight, momentum, energy, and work formulas
+- Physics units such as Newtons, Joules, kilograms, meters per second, and kg·m/s
 - Using `<iostream>`
 - Using `<cmath>`
+- Using `std::cout` and `std::cin`
 - Converting degrees to radians
-- Translating math concepts into code
+- Translating math and physics concepts into code
 
 ---
 
@@ -76,6 +97,7 @@ Current focus:
 - Build beginner C++ math and physics tools
 - Understand projectile motion and basic Newtonian mechanics
 - Begin studying discrete mathematics for contest problem-solving and computer science
+- Practice writing clearer code with better variable names and structure
 - Upload small projects consistently to GitHub
 
 ---
@@ -85,13 +107,13 @@ Current focus:
 Goals:
 
 - Study discrete mathematics more seriously
-- Learn logic, sets, counting, recursion, and graph theory
+- Learn logic, sets, counting, recursion, modular arithmetic, and graph theory
 - Prepare for math contests such as Gauss, Pascal, Cayley, and Fermat
 - Continue building C++ math and physics projects
 - Learn limits, derivatives, and basic integrals as a calculus preview
 - Study Newtonian mechanics more deeply
-- Begin creating simple simulations
-- Improve code organization and project structure
+- Build improved physics calculators and simple simulations
+- Improve code organization, comments, functions, and project structure
 
 ---
 
@@ -112,5 +134,4 @@ Goals:
 
 My long-term goal is to combine mathematics, physics, and programming to build simulations, tools, and visual projects.
 
-I want this repository to show my growth from beginner programming projects to more advanced STEM projects involving algebra, discrete math, calculus, physics, and computer science.
-
+I want this repository to show my growth from beginner programming projects to more advanced STEM projects involving algebra, discrete math, calculus, physics, computer science, and simulation design.
