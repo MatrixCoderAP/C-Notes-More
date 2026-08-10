@@ -85,51 +85,6 @@ This project helped me practice C++ conditionals, variable scope, physics units,
 
 ---
 
-## Learning Roadmap
-
-### Age 14 — Foundations
-
-Current focus:
-
-- Strengthen algebra accuracy
-- Learn trigonometry and vectors
-- Learn imaginary and complex numbers
-- Build beginner C++ math and physics tools
-- Understand projectile motion and basic Newtonian mechanics
-- Begin studying discrete mathematics for contest problem-solving and computer science
-- Practice writing clearer code with better variable names and structure
-- Upload small projects consistently to GitHub
-
----
-
-### Age 15 — Discrete Math, Calculus Preview, and Mechanics
-
-Goals:
-
-- Study discrete mathematics more seriously
-- Learn logic, sets, counting, recursion, modular arithmetic, and graph theory
-- Prepare for math contests such as Gauss, Pascal, Cayley, and Fermat
-- Continue building C++ math and physics projects
-- Learn limits, derivatives, and basic integrals as a calculus preview
-- Study Newtonian mechanics more deeply
-- Build improved physics calculators and simple simulations
-- Improve code organization, comments, functions, and project structure
-
----
-
-### Age 16 — Advanced Math and Simulations
-
-Goals:
-
-- Continue advanced discrete mathematics and graph theory
-- Study more advanced physics topics such as circular motion, rotational motion, fields, and curvature
-- Build visual physics simulations
-- Explore C# and Unity for interactive projects
-- Create more polished projects for possible videos or a portfolio
-- Begin connecting math, physics, and programming into larger simulations
-
----
-
 ## Long-Term Goal
 
 My long-term goal is to combine mathematics, physics, and programming to build simulations, tools, and visual projects.
