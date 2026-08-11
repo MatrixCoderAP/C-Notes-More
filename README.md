@@ -1,4 +1,4 @@
-# Hi, I'm a Student Developer 👋
+# Student Dev
 
 I’m exploring the intersection of **programming, mathematics, physics, and visual simulation**. I enjoy turning concepts from calculus and mechanics into interactive programs, experiments, and eventually full games.
 
